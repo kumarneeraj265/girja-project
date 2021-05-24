@@ -1,0 +1,25 @@
+thead.thead-dark{
+    height:20px
+}
+.table .thead-dark th{
+    font-size: 0.8em;
+    padding: initial;
+    color: #212529;
+    background-color: dimgray;
+    border-color: dimgray;
+}
+.table thead th {
+    border-bottom:none !important;
+}
+.table td, .table th {
+    padding: 0px !important;
+    font-size: 0.7em;
+    color: #545050;
+}.table td{
+    text-transform: uppercase;
+}
+
+td.link-column{
+    color: #4183E4;
+    cursor: pointer;
+}

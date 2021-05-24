@@ -1,0 +1,28 @@
+{
+    "users": [
+      {
+        "accountNumber": "231212-122",
+        "name": "Girja",
+        "address": "32, suite#2 park",
+        "city": "123",
+        "state":"CA",
+        "postalCode":"12104"
+      },
+      {
+        "accountNumber": "434212-1212",
+        "name": "User01",
+        "address": "32, suite#2 park",
+        "city": "seale",
+        "state":"CA",
+        "postalCode":"12104"
+      },
+      {
+        "accountNumber": "55342323-12",
+        "name": "User02",
+        "address": "32, suite#2 park",
+        "city": "kentucky",
+        "state":"CA",
+        "postalCode":"12104"
+      }
+    ]
+  }
